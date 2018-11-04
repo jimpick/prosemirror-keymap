@@ -1,5 +1,5 @@
 import {base, keyName} from "w3c-keyname"
-import {Plugin} from "prosemirror-state"
+import {Plugin} from "@jimpick/prosemirror-state"
 
 // declare global: navigator
 
